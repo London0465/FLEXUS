@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usás FLEXUS, citá el DOI de Zenodo"
+title: "FLEXUS 1 — Relational Persistence Architecture"
+version: "1.0"
+doi: 10.5281/zenodo.21013075
+date-released: 2026-06-28
+license: CC0-1.0
+authors:
+  - family-names: Moyano
+    given-names: Ariel
+abstract: "Formaliza el espacio de vínculo P_vinculo y la latencia ética."
+keywords:
+  - relational AI
+  - persistence
+  - alignment
+  - ethical latency
+  - bond space
