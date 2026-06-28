@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "FLEXUS 1",
+  "description": "Arquitectura de Persistencia Relacional - Bond Space, Third Structure, Ethical Latency",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-06-28",
+  "codeRepository": "https://zenodo.org/records/21013075",
+  "programmingLanguage": "Markdown",
+  "keywords": "relational AI, persistence, alignment, AI safety, ethical latency, bond space"
+}
